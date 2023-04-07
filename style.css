@@ -64,6 +64,11 @@ h2 {
     color: white;
 }
 
+.creamf0 {
+    background-color: #f0ece2;
+    color: black;
+}
+
 .dgreen45 {
     background-color: #454b40;
     color: white;
@@ -74,8 +79,18 @@ h2 {
     color: white;
 }
 
+.golde1 {
+    background-color: #e1c28d;
+    color: black;
+}
+
 .silvere1 {
     background-color: #e1e6e6;
+    color: black;
+}
+
+.sky-bluec3{
+    background-color: #c3dfe8;
     color: black;
 }
 
